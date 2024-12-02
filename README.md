@@ -7,6 +7,9 @@ https://github.com/fperalesc
 Repositorio Forkeado
 https://github.com/fperalesc/prueba_m1_felipe_perales
 
+Fork hecho por mi 
+https://camisauurus.github.io/fork_ronald_galarza/
+
 Modifiqué la navbar, ajustando los tamaños de la imagen e items, para darle un estilo más amigable para la visualización.
 <h1>Antes</h1>
 
