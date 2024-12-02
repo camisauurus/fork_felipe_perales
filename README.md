@@ -1,22 +1,17 @@
-# prueba_m1_felipe_perales
-Repositorio prueba final modulo 1 ADL
+# Fork felipe_perales
+Para prueba Módulo 1 Desafío Latam
 
-Links:
-GitHub Principal: https://github.com/fperalesc
-Repositorio prueba modulo 1: https://github.com/fperalesc/prueba_m1_felipe_perales
-GitHub Pages: https://fperalesc.github.io/prueba_m1_felipe_perales/index.html
+Github Felipe Perales
+https://github.com/fperalesc
 
+Repositorio Forkeado
+https://github.com/fperalesc/prueba_m1_felipe_perales
 
-Fork a repositorios de compañeros (2)
+Modifiqué la navbar, ajustando los tamaños de la imagen e items, para darle un estilo más amigable para la visualización.
+<h1>Antes</h1>
 
-Compañera 1:
-GitHub: https://github.com/karenalfaro
-Repositorio forkeado 1: https://github.com/fperalesc/Prueba-final-portafolio
-Repositorio Original: https://github.com/karenalfaro/Prueba-final-portafolio
-*Se realiza 1 commit + pull request.
+![fork_antes](https://github.com/user-attachments/assets/6724e0e4-bcde-4e11-ada3-cbf919151ba9)
 
-Compañera 2:
-GitHub: https://github.com/josefinarondon
-Repositorio forkeado 2: https://github.com/fperalesc/dl-m01-prueba01
-Repositorio Original: https://github.com/josefinarondon/dl-m01-prueba01
-*Se realiza 1 commit + pull request.
+<h1>Después</h1>
+
+![fork_despues](https://github.com/user-attachments/assets/67478265-7079-4c3d-8ca5-6021cb3b3aca)
